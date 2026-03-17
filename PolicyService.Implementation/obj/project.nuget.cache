@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hp6I/Cf4lh4=",
+  "dgSpecHash": "MkULYw9NSdA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\as\\OneDrive\\Desktop\\thietke_kientruc\\InsuranceMicroservices\\PolicyService.Implementation\\PolicyService.Implementation.csproj",
+  "projectFilePath": "C:\\Users\\as\\OneDrive\\Desktop\\TH_KienTruc\\InsuranceMicroservices\\PolicyService.Implementation\\PolicyService.Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\as\\.nuget\\packages\\mediatr\\14.0.0\\mediatr.14.0.0.nupkg.sha512",
     "C:\\Users\\as\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

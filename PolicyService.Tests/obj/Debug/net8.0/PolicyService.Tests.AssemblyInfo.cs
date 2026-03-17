@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolicyService.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+843292943ca442ab2146db71288b9bf0d204867c")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolicyService.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolicyService.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

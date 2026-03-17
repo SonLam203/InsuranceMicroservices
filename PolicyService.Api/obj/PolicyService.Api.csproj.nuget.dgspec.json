@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\as\\OneDrive\\Desktop\\thietke_kientruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj": {}
+    "C:\\Users\\as\\OneDrive\\Desktop\\TH_KienTruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\as\\OneDrive\\Desktop\\thietke_kientruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj": {
+    "C:\\Users\\as\\OneDrive\\Desktop\\TH_KienTruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\as\\OneDrive\\Desktop\\thietke_kientruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj",
+        "projectUniqueName": "C:\\Users\\as\\OneDrive\\Desktop\\TH_KienTruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj",
         "projectName": "PolicyService.Api",
-        "projectPath": "C:\\Users\\as\\OneDrive\\Desktop\\thietke_kientruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj",
+        "projectPath": "C:\\Users\\as\\OneDrive\\Desktop\\TH_KienTruc\\InsuranceMicroservices\\PolicyService.Api\\PolicyService.Api.csproj",
         "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\as\\OneDrive\\Desktop\\thietke_kientruc\\InsuranceMicroservices\\PolicyService.Api\\obj\\",
+        "outputPath": "C:\\Users\\as\\OneDrive\\Desktop\\TH_KienTruc\\InsuranceMicroservices\\PolicyService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
